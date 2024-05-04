@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710823351 source:c:\users\asus\documents\compiler design\final term\lab5.1\flabb5\flabb5\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
